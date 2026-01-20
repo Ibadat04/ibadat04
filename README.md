@@ -1,7 +1,6 @@
 # 💫 About Me:
 <br><br> **Hi, I’m Ibadat a Computer Science student with a strong interest in cybersecurity, currently building hands-on skills through networking, SOC fundamentals, and practical security labs. I’m actively working on strengthening my understanding of network traffic, logs, and threat analysis, and I’m looking to collaborate on a cybersecurity-focused networking lab idea that’s beginner-friendly but realistic. Feel free to ask me about getting started in cybersecurity, student-led security initiatives, or learning security through hands-on practice. Fun fact: I enjoy breaking down complex technical concepts into simple explanations and balancing tech with creativity and community building.**<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ibadat Kaur Sandhu) 
 
